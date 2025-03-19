@@ -1,0 +1,51 @@
+
+{
+  "cards": [
+    {
+      "id": "1",
+      "name": "Arcane Scholar",
+      "type": "Unit",
+      "rarity": "Rare",
+      "cardText": "When played: Draw a card.",
+      "flavor": "Knowledge is the greatest power of all.",
+      "category": "Spellcaster",
+      "stats": {
+        "power": 2,
+        "health": 2,
+        "mana": 3
+      },
+      "image": "https://placehold.co/300x420/black/white?text=Arcane+Scholar",
+      "tags": ["Draw", "Spellcaster", "Arcane"]
+    },
+    {
+      "id": "2",
+      "name": "Mystic Barrier",
+      "type": "Spell",
+      "rarity": "Common",
+      "cardText": "Prevent the next 3 damage that would be dealt to your hero.",
+      "flavor": "A shimmer in the air is all that betrays its presence.",
+      "category": "Protection",
+      "stats": {
+        "mana": 2
+      },
+      "image": "https://placehold.co/300x420/purple/white?text=Mystic+Barrier",
+      "tags": ["Defense", "Magic"]
+    },
+    {
+      "id": "3",
+      "name": "Steel Guardian",
+      "type": "Unit",
+      "rarity": "Epic",
+      "cardText": "Taunt. Takes half damage from spells.",
+      "flavor": "Forged in the eternal flames of the underworld.",
+      "category": "Warrior",
+      "stats": {
+        "power": 4,
+        "health": 6,
+        "mana": 5
+      },
+      "image": "https://placehold.co/300x420/silver/white?text=Steel+Guardian",
+      "tags": ["Taunt", "Warrior", "Anti-magic"]
+    }
+  ]
+}
