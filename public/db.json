@@ -10,18 +10,31 @@
       
     },
     {
-      "id": "2",
-      "name": "Mystic Barrier",
-      "type": "Spell",
-      "rarity": "Common",
-      "cardText": "Prevent the next 3 damage that would be dealt to your hero.",
-      "flavor": "A shimmer in the air is all that betrays its presence.",
-      "category": "Protection",
-      "stats": {
-        "mana": 2
-      },
-      "image": "https://placehold.co/300x420/purple/white?text=Mystic+Barrier",
-      "tags": ["Defense", "Magic"]
+    [
+{"name": "A Deal Signed in Blood Magic",
+"type": "Spell",
+"desc": "Target up to 3 monsters you control; destroy them, and if you do, take control of your opponent's monsters up to the number of monsters you destroyed to activate this card. If you control a monster originally owned by your opponent, you can banish this card from your GY; all monsters you control gain 700 ATK until the End Phase. You can only use each effect of \"A Deal Signed in Blood Magic\" once per Duel.",
+"race": "Normal",
+"credits": "Bioware"},
+{"name": "A Tyrant's Duty",
+"type": "Spell",
+"desc": "When this card is activated: Destroy 1 Spell/Trap you control; Special Summon 1 \"Dwarf\" monster from your Deck. While this card is face-up on the field, all \"Casteless Dwarf\" you control gain 500 ATK and cannot be targeted by card effects. You can only activate 1 \"A Tyrant's Duty\" per turn.",
+"race": "Continuous",
+"credits": "Bioware"},
+{"name": "Abomination",
+"type": "Effect",
+"desc": "(This card is always treated as a \"Demon\" card)\nIf this card is added to your hand by a card effect: You can Special Summon it. You can only Special Summon \"Abomination\" once per turn this way. If this card leaves the field, banish it.",
+"atk": 1200,
+"def": 800,
+"level": 3,
+"race": "Fiend",
+"attribute": "DARK",
+"credits": "Bioware"},
+{"name": "Allure of the Tainted Eluvian",
+"type": "Trap",
+"desc": "Tribute 1 monster you control; Draw 2 cards. When this card is in your GY: You can banish 1 monster in your GY; shuffle this card into the Deck.",
+"race": "Normal",
+"credits":"Bioware"},
     },
     {
       "id": "3",
