@@ -35,7 +35,7 @@
 "desc": "Tribute 1 monster you control; Draw 2 cards. When this card is in your GY: You can banish 1 monster in your GY; shuffle this card into the Deck.",
 "race": "Normal",
 "credits":"Bioware"},
-    },
+    
     {
       "id": "3",
       "name": "Steel Guardian",
