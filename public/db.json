@@ -6,9 +6,8 @@
 "desc": "Target up to 3 monsters you control; destroy them, and if you do, take control of your opponent's monsters up to the number of monsters you destroyed to activate this card. If you control a monster originally owned by your opponent, you can banish this card from your GY; all monsters you control gain 700 ATK until the End Phase. You can only use each effect of \"A Deal Signed in Blood Magic\" once per Duel.",
 "race": "Normal",
 "credits": "Bioware"
-      },
-      "image": "https://placehold.co/300x420/black/white?text=Arcane+Scholar",
-      "tags": ["Draw", "Spellcaster", "Arcane"]
+
+      
     },
     {
       "id": "2",
